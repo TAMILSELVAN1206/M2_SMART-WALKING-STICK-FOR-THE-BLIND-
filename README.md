@@ -16,6 +16,8 @@
 
 # CPPCHECK ANALYSIS :
 
+[![Cppcheck Analysis](https://github.com/TAMILSELVAN1206/M2_SMART-WALKING-STICK-FOR-THE-BLIND-/actions/workflows/cpp%20check.yml/badge.svg)](https://github.com/TAMILSELVAN1206/M2_SMART-WALKING-STICK-FOR-THE-BLIND-/actions/workflows/cpp%20check.yml)
+
 # GIT INSPECTOR :
 
 # BUILD ON LINUX :
