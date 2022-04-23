@@ -10,6 +10,8 @@
 
 ## UNIT TESTING :
 
+[![Unit Testing](https://github.com/TAMILSELVAN1206/M2_SMART-WALKING-STICK-FOR-THE-BLIND-/actions/workflows/unit%20testing.yml/badge.svg)](https://github.com/TAMILSELVAN1206/M2_SMART-WALKING-STICK-FOR-THE-BLIND-/actions/workflows/unit%20testing.yml)
+
 
 
 # CPPCHECK ANALYSIS :
