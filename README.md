@@ -20,7 +20,10 @@
 
 # GIT INSPECTOR :
 
+
 # BUILD ON LINUX :
+
+[![Build-Linux](https://github.com/TAMILSELVAN1206/M2_SMART-WALKING-STICK-FOR-THE-BLIND-/actions/workflows/Build%20linux.yml/badge.svg)](https://github.com/TAMILSELVAN1206/M2_SMART-WALKING-STICK-FOR-THE-BLIND-/actions/workflows/Build%20linux.yml)
 
 # VALGRIND :
 
