@@ -1,4 +1,4 @@
-# M2_SMART-WALKING-STICK-FOR-THE-BLIND-# BADGES
+# M2_SMART-WALKING-STICK-FOR-THE-BLIND :
 
 # CODE QUALITY ![CODE QUALITY SCORE](https://api.codiga.io/project/33092/score/svg)
 # CODE GRADE ![CODE GRADE](https://api.codiga.io/project/33092/status/svg)
