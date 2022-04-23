@@ -5,9 +5,21 @@
 
 # CODACY :
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b88cfaf667ff4aab9cb22a1fd454b142)](https://www.codacy.com/gh/TAMILSELVAN1206/M2_SMART-WALKING-STICK-FOR-THE-BLIND-/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=TAMILSELVAN1206/M2_SMART-WALKING-STICK-FOR-THE-BLIND-&amp;utm_campaign=Badge_Grade)
+
+
+## UNIT TESTING :
+
 
 
 # CPPCHECK ANALYSIS :
+
+# GIT INSPECTOR :
+
+# BUILD ON LINUX :
+
+# VALGRIND :
+
 
 
 
